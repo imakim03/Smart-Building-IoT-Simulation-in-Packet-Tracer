@@ -32,8 +32,8 @@ Ce projet vise à modéliser et simuler l’utilisation des technologies IoT dan
 Ce projet a été réalisé par :
 
 - Kimissi Imane
-- Hiba Dihia
-- Mariam Yammoun
+- [Hiba Dihia](https://github.com/dihiahiba/)
+- [Mariam Yammoun](https://github.com/Mariamyammoun)
 - [Naoual Tihadi](https://github.com/naoua-ti)
 - [Ikram Benkeroum](https://github.com/icobeen)
 
